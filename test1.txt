@@ -1,3 +1,4 @@
 Hellow World!
  -git add
  -git commit
+ -git rm

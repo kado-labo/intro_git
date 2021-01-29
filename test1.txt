@@ -1,2 +1,3 @@
-Git‚Ì—ûK
-Šî–{
+Hellow World!
+ -git add
+ -git commit
